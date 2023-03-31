@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PTH_HELLO
+    bool "pth_hello"
+    help
+        pth_hello package.
+

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_THREAD_SUM
+    bool "thread_sum"
+    help
+        thread_sum package.
+
