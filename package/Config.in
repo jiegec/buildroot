@@ -2189,6 +2189,11 @@ menu "Miscellaneous"
 	source "package/xutil_util-macros/Config.in"
 endmenu
 
+menu "MULTIPROCESS Packages"
+	source "package/pth_hello/Config.in"
+	source "package/thread_sum/Config.in"
+endmenu
+
 menu "Networking applications"
 	source "package/aircrack-ng/Config.in"
 	source "package/alfred/Config.in"
